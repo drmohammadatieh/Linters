@@ -1,6 +1,6 @@
 ## Testing
 
-This is an exercise on testing with python as part of the Secure Software Development course of the CS PgCert at the University of Essex Online. 
+This is an exercise on exploring linters in python as part of the Secure Software Development course of the CS PgCert at the University of Essex Online. 
 
 ## Linting
 
